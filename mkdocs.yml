@@ -1,0 +1,67 @@
+site_name: 2024 XXXXXXX Conf
+theme:
+  name: material
+
+  # coloring
+  palette:
+    # palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  # typefacing
+  font:
+    text: Noto Sans Simplified Chinese
+    code: Noto Sans Mono
+
+  # fastloading
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+
+# copyright info
+copyright: "&copy; 2024 会议委员会名字"
+
+plugins:
+  # proxying google fonts, which are unavailable in Mainland China
+  - privacy
+  # for customizing navbar
+  - awesome-pages
+  # for adding search
+  - search
+
+# external links, like whatsapp and wechat
+extra:
+  social:
+    - icon: simple/whatsapp
+      link: "https://"
+    - icon: simple/wechat
+      link: "https://"
+    - icon: material/email-edit
+      link: "mailto:abc@example.com"
+  generator: false
+
+# customizing navbar and sequence of documents
+nav:
+  - English:
+      - English/index.md
+  - 简体中文:
+      - 简体中文/index.md
+      - 简体中文/摘要投递（进行中）.md
+      - 简体中文/排列测试 第三个文档.md
