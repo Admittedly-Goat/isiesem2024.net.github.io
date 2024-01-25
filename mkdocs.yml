@@ -7,8 +7,8 @@ theme:
     # palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: white
-      accent: indigo
+      primary: green
+      accent: green
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -59,9 +59,17 @@ extra:
 
 # customizing navbar and sequence of documents
 nav:
-  - English:
-      - English/index.md
-  - 简体中文:
-      - 简体中文/index.md
-      - 简体中文/摘要投递（进行中）.md
-      - 简体中文/排列测试 第三个文档.md
+  - Home: index.md
+  - About:
+    - About/index.md
+    - About/排列测试 第三个文档.md
+  - Porgram:
+    - Program/index.md
+  - Timeline:
+    - Timeline/摘要投递（进行中）.md
+  - Venue and Travel: 
+    - Venue and Travel/index.md
+  - Contact:
+    - Contact/摘要投递（进行中）.md
+  - FAQs:
+    - FAQs/摘要投递（进行中）.md

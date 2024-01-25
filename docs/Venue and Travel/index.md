@@ -1,0 +1,7 @@
+# blabla this is title
+
+On behalf of the Organizing Committee at Peking University and the ISIE-SEM board, it is our great pleasure to invite you to attend the Joint Socio-Economic Metabolism (SEM) Section Conference and the Asia-Pacific (AP) Conference of the International Society for Industrial Ecology (ISIE), to be held 24-27 August 2024 in Beijing, China.
+
+The conference will focus on topics related to both methodological development and sustainability implications of industrial ecology and socio-economic metabolism research, including but not limited to resource efficiency, circular economy, resource security, food systems, built environment, urban metabolism, waste management, climate change mitigation, global value chains, embodied environmental impacts, stock-flow-service nexus, and renewable energy and low-carbon transition. We look forward to welcoming as many of you as possible from the ISIE, ISIE-SEM, and ISIE-AP families. We also aim to bring together researchers from related fields such as geography, urban planning, climate change, and environmental system engineering and practitioners from industry and policy arena.
+
+Please reserve the dates for now and stay tuned for more updates regarding conference details. The conference website for abstract submission will be ready soon, but we already look forward to receiving suggestions for conferences and special session proposals if you have.
