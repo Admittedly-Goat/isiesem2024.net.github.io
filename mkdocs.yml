@@ -29,8 +29,6 @@ theme:
 
   # fastloading
   features:
-    - navigation.instant
-    - navigation.instant.progress
     - navigation.tabs
     - navigation.top
     - navigation.footer
