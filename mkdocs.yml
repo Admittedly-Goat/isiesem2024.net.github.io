@@ -1,14 +1,17 @@
-site_name: 2024 XXXXXXX Conf
+site_name: 2024 Joint ISIE SEM and Asia-Pacific Conference
 theme:
   name: material
+  icon: 
+    logo: material/earth
+  favicon: image/favicon.png
 
   # coloring
   palette:
     # palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: green
-      accent: green
+      primary: blue
+      accent: blue
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -34,7 +37,7 @@ theme:
     - navigation.footer
 
 # copyright info
-copyright: "&copy; 2024 会议委员会名字"
+copyright: "&copy; 2024 Joint ISIE SEM and Asia-Pacific Conference Committee"
 
 plugins:
   # proxying google fonts, which are unavailable in Mainland China
@@ -46,13 +49,6 @@ plugins:
 
 # external links, like whatsapp and wechat
 extra:
-  social:
-    - icon: simple/whatsapp
-      link: "https://"
-    - icon: simple/wechat
-      link: "https://"
-    - icon: material/email-edit
-      link: "mailto:abc@example.com"
   generator: false
 
 # customizing navbar and sequence of documents
@@ -60,14 +56,12 @@ nav:
   - Home: index.md
   - About:
     - About/index.md
-    - About/排列测试 第三个文档.md
   - Porgram:
     - Program/index.md
-  - Timeline:
-    - Timeline/摘要投递（进行中）.md
+    - Program/Abstract.md
   - Venue and Travel: 
     - Venue and Travel/index.md
   - Contact:
-    - Contact/摘要投递（进行中）.md
+    - Contact/index.md
   - FAQs:
-    - FAQs/摘要投递（进行中）.md
+    - FAQs/index.md

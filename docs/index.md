@@ -3,43 +3,31 @@ hide:
   - navigation
 ---
 
-# ![1706198871210](image/index/1706198871210.png)
+![1706627180801](image/index/1706627180801.png)
 
-（这里也可以放视频，也可以放图片，也可以放动图。视频可能有兼容问题，建议是静态图片。我们的banner似乎好没做好）
+## Introduction
 
-## Welcome to the 1st USS conference!
+On behalf of the Organizing Committee at Peking University and the ISIE-SEM board, it is our great pleasure to invite you to attend the Joint Socio-Economic Metabolism (SEM) Section Conference and the Asia-Pacific (AP) Conference of the International Society for Industrial Ecology (ISIE), to be held 24-27 August 2024 in Beijing, China.
 
-The Urban Science and Sustainability (USS) Conference will bring together leading experts in urban science, sustainability science, sustainable urban system modeling, and other relevant fields to share insights, ideas, and findings that are important for a sustainable urbanized future.
+The conference will focus on topics related to both methodological development and sustainability implications of industrial ecology and socio-economic metabolism research, including but not limited to resource efficiency, circular economy, resource security, food systems, built environment, urban metabolism, waste management, climate change mitigation, global value chains, embodied environmental impacts, stock-flow-service nexus, and renewable energy and low-carbon transition. We look forward to welcoming as many of you as possible from the ISIE, ISIE-SEM, and ISIE-AP families. We also aim to bring together researchers from related fields such as geography, urban planning, climate change, and environmental system engineering and practitioners from industry and policy arena.
 
-In September 2021, the Institute of Urban Environment, Chinese Academy of Sciences (IUE-CAS) initiated the USS online lecture series, and it has now become an important platform for sharing groundbreaking ideas, innovative solutions, and influential insights in the realm of sustainable development. More than 30 world-renowned experts have been invited to give talks, with each lecture drawing 2000-5000 participants online and the audiences are from more than 45 countries.
+Please reserve the dates for now and stay tuned for more updates regarding conference details. The conference website for abstract submission will be ready soon, but we already look forward to receiving suggestions for conferences and special session proposals if you have.
 
-Building upon the success of the USS lecture series, IUE-CAS decided to initiate and organize the 1st USS conference, together with the Sustainable Urban System (SUS) section of the International Society for Industrial Ecology (ISIE). This is also the inaugural Section Conference of the ISIE-SUS section. We warmly invite scholars and policymakers from all over the world to join this exciting event. This will be more than just a conference. It will also be a platform for collaboration, a chance to learn from each other, and an opportunity to shape the future of our cities.
+## Stay Updated
 
-## Getting in touch
+<!-- This section title has hyperlink in /Program/index.md -->
+<!-- 这一部分在 /Program/index.md 中有超链接，注意标题的修改 -->
 
-To receive new information, updates and other announcements, please follow the WeChat official account (preferred for Chinese participants) or XXXXX (preferred for international participants).
+Providing information quickly is our priority. We provide various ways for you to stay updated with our conference.
+
+- Telegram channel: [News of 2024 Joint ISIE SEM and Asia-Pacific Conference](https://t.me/isiesem2024)
+- WeiXin public account: ![1706628121264](image/index/1706628121264.png) (PKU RISE)
+- Email list: [Subscribe](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAOVphwpUNUI4QjlQUTlWMFBKTlFaWDFLT0g1VFRZQS4u)
 
 ## Announcement
 
-Photo Gallery
-
-[https://www.koushare.com/topicIndex/i/USS](https://www.koushare.com/topicIndex/i/USS)
+1. [2024 Feb] We are collecting the abstract of reports for the conference. Please submit your abstract if you are interested in giving a report. __You can find the submission page in "Programs" section.__
 
 ## Important Dates
 
-- October 8, 2023 : Abstract Submission Deadline. Click [here](https://example.com) to submit
-- October 20, 2023 : New Deadline for Submitting Abstracts
-- November 10, 2023 : Abstract Acceptance Notification
-- Stay tuned for more information!
-
-For detailed timeline info, please go to [Timeline section](https://example.com) to check.
-
-## Organizers
-
-![1706199710255](image/index/1706199710255.png)
-
-## Co-organizers
-
-（到时候会处理真实的logo图片显示问题）
-
-![1706199823052](image/index/1706199823052.png)
+- 2024 Feb: Abstract submission opens (Deadline TBD; submission page in "Programs" section)
