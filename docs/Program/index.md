@@ -8,4 +8,4 @@ The initial schedule during the conference is provided as follows:
 
 # Submit your Abstract
 
-Please [submit your abstract](Abstract.md) if you are interested in giving a report.
+Please [submit your abstract](Abstract.md) if you are interested in giving a presentation.

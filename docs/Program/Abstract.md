@@ -3,7 +3,7 @@
 <!-- This page has hyperlink in /program/index.md -->
 <!-- 本页在 /program/index.md 中有超链接 -->
 
-Thanks for your interest in giving a report on this conference. Please submit your abstract by filling out this form:
+Thanks for your interest in giving a presentation at this conference. Please submit your abstract by filling out this form:
 
 [![1706708875202](image/Abstract/1706708875202.png)](https://docs.google.com/forms/d/e/1FAIpQLSd5nAciRy12rPfh12s2ek-hBBonUn5aYwAnRXRyARXKDzhkpw/viewform?usp=sf_link)
 

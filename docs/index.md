@@ -23,7 +23,7 @@ Current website [isiesem2024.net](index.md) contains all information related to 
 
 ## Announcements
 
-- The abstract submission is open now! Anyone who is interested in giving a report at the conference can submit an abstract. Please check the [Abstract Submission](Program/Abstract.md) page for more details.
+- The abstract submission is open now! Anyone who is interested in giving a presentation at the conference can submit an abstract. Please check the [Abstract Submission](Program/Abstract.md) page for more details.
 
 ## Important Dates
 
