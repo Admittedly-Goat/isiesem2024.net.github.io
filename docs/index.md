@@ -5,7 +5,7 @@ hide:
 
 # ![1706701450090](image/index/1706701450090.png)
 
-## Welcome to the official website of Joint ISIE Socio-Economic Metabolism and Asia-Pacific Conference!
+## Welcome
 
 The **Joint Socio-Economic Metabolism (SEM) Section Conference and the Asia-Pacific (AP) Conference of the International Society for Industrial Ecology (ISIE)** will focus on topics related to **both methodological development and sustainability implications of industrial ecology and socio-economic metabolism research**, including but not limited to resource efficiency, circular economy, resource security, food systems, built environment, urban metabolism, waste management, climate change mitigation, global value chains, embodied environmental impacts, stock-flow-service nexus, and renewable energy and low-carbon transition.
 
@@ -23,7 +23,7 @@ Current website [isiesem2024.net](index.md) contains all information related to 
 
 ## Announcements
 
-- The abstract submission is open now! Anyone who is interested in the conference can submit an abstract. Please check the [Abstract Submission](Program/Abstract.md) page for more details.
+- The abstract submission is open now! Anyone who is interested in giving a report at the conference can submit an abstract. Please check the [Abstract Submission](Program/Abstract.md) page for more details.
 
 ## Important Dates
 
