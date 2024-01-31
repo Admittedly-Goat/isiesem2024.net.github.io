@@ -18,10 +18,10 @@ Please reserve the dates for now and stay tuned for more updates regarding confe
 <!-- This section title has hyperlink in /Program/index.md -->
 <!-- 这一部分在 /Program/index.md 中有超链接，注意标题的修改 -->
 
-Providing information quickly is our priority. We provide various ways for you to stay updated with our conference.
+We provide various ways for you to stay updated with our conference.
 
-- Telegram channel: [News of 2024 Joint ISIE SEM and Asia-Pacific Conference](https://t.me/isiesem2024)
-- WeiXin public account: ![1706628121264](image/index/1706628121264.png) (PKU RISE)
+- Telegram channel (recommended): [News of 2024 Joint ISIE SEM and Asia-Pacific Conference](https://t.me/isiesem2024)
+- WeiXin public account (recommended for Mainland China users): ![1706628121264](image/index/1706628121264.png) (PKU RISE)
 - Email list: [Subscribe](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAOVphwpUNUI4QjlQUTlWMFBKTlFaWDFLT0g1VFRZQS4u)
 
 ## Announcement
