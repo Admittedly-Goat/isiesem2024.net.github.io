@@ -1,4 +1,4 @@
-site_name: 2024 Joint ISIE SEM and Asia-Pacific Conference
+site_name: 2024 Joint ISIE Socio-Economic Metabolism and Asia-Pacific Conference
 theme:
   name: material
   icon: 
@@ -37,7 +37,7 @@ theme:
     - navigation.footer
 
 # copyright info
-copyright: "&copy; 2024 Joint ISIE SEM and Asia-Pacific Conference Committee"
+copyright: "&copy; 2024 Joint ISIE Socio-Economic Metabolism and Asia-Pacific Conference Committee"
 
 plugins:
   # proxying google fonts, which are unavailable in Mainland China
@@ -55,7 +55,7 @@ extra:
 nav:
   - Home: index.md
   - About:
-    - About/index.md
+    - About: About/index.md
   - Program:
     - Program/index.md
     - Program/Abstract.md

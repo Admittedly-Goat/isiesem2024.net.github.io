@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Venue & Travel
 
 ## English Version
@@ -19,13 +24,13 @@ Zhongguan Xinyuan Global Village PKU Beijing is located in Zhongguancun North St
 
 ### Travel Directions
 
-**We recommend you to take the subway or a taxi for your transportation.**
+> We recommend you to take the subway or a taxi for your transportation.
 
-The venue is near **entrance C of Peking University East Gate Station of Metro 4**, you can reach it by heading south 100 meters from Exit C. Information on subway transfers can be found on the Beijing Subway website: [https://www.bjsubway.com/en/](https://www.bjsubway.com/en/).
+The venue is near `entrance C of Peking University East Gate Station of Metro 4`, you can reach it by heading south 100 meters from Exit C. Information on subway transfers can be found on the Beijing Subway website: [https://www.bjsubway.com/en/](https://www.bjsubway.com/en/).
 
 ![1706671044657](image/index/1706671044657.png)
 
-**The distances and estimated costs from the airport or train stations to the conference venue (prices subject to change):**
+The `distances and estimated costs` from the airport or train stations to the conference venue (prices subject to change):
 
 - Beijing Capital International Airport: 33 kilometers, by taxi: 50 minutes, 110 RMB.
 - Beijing Daxing International Airport: 60 kilometers, by taxi: 60 minutes, 150 RMB.
@@ -36,9 +41,9 @@ The venue is near **entrance C of Peking University East Gate Station of Metro 4
 
 ### Accommodation
 
-The **Zhongguan Xinyuan Global Village PKU Beijing hotel set aside a block of rooms for the conference attendees**, with 100 rooms in Villa 1 and 100 rooms in Building No. 9.
+The `Zhongguan Xinyuan Global Village PKU Beijing hotel set aside a block of rooms for the conference attendees`, with 100 rooms in Villa 1 and 100 rooms in Building No. 9.
 
-When booking, **please mention your participation in the ISIE SEM and Asia-Pacific Conference to access the conference discount. We recommend making your reservation in a timely manner.** Kindly be aware that the hotel expenses are to be covered by yourself.
+When booking, *please mention your participation in the ISIE SEM and Asia-Pacific Conference to access the conference discount. We recommend making your reservation in a timely manner.* Kindly be aware that the hotel expenses are to be covered by yourself.
 
 #### Zhongguan Xinyuan Global Village PKU Beijing
 
@@ -50,7 +55,7 @@ It is an important part for Peking University to build a world-class university.
 - Hotel Reservation Telephone: +86-10-62752288
 - Website: http://www.globalvillagepku.com/
 
-##### Zhongguan Xinyuan Global Village PKU Beijing (Villa 1)
+#### Zhongguan Xinyuan Global Village PKU Beijing (Villa 1)
 
 ![1706671319994](image/index/1706671319994.png)
 
@@ -58,7 +63,7 @@ The venue is located within the hotel.
 
 Price per night, per person/room from 658 RMB --, including breakfast
 
-##### Zhongguan Xinyuan Global Village PKU Beijing (No. 9 building)
+#### Zhongguan Xinyuan Global Village PKU Beijing (No. 9 building)
 
 ![1706671359462](image/index/1706671359462.png)
 
@@ -66,7 +71,9 @@ Distance to the conference venue: 300 meters, a 5-minute walk to the venue
 
 Price per night, per person/room from 558 RMB --, including breakfast
 
-**We also selected some hotels near the venue which you can book during the conference.**
+<br>
+
+> We also selected some hotels near the venue which you can book during the conference.
 
 #### The Lakeview Hotel Beijing
 
@@ -104,7 +111,7 @@ Wenjin Hotel Beijing(Beijing Wenjin Guoji Jiudian), located in Tsinghua Science 
 
 ### 会场交通
 
-**优先推荐您使用地铁或者出租出行。**
+> 优先推荐您使用地铁或者出租出行。
 
 会场位置位于地铁 4 号线“北京大学东门”站附近，由 C 出口向南 100 米即可到达，地铁换乘方法在高德地图、百度地图等导航应用中均有提供。
 
@@ -121,9 +128,9 @@ Wenjin Hotel Beijing(Beijing Wenjin Guoji Jiudian), located in Tsinghua Science 
 
 ### 住宿信息
 
-我们在会场所在酒店**共预留了 200 间标准间/大床房，其中 1 号楼 100 间，9 号楼 100 间，请您提前预定。**
+我们在会场所在酒店*共预留了 200 间标准间/大床房，其中 1 号楼 100 间，9 号楼 100 间，请您提前预定。*
 
-注意：**预定时说明您为 ISIE SEM and Asia-Pacific 会议参与者可享受会议折扣**，费用自理。
+注意：*预定时说明您为 ISIE SEM and Asia-Pacific 会议参与者可享受会议折扣*，费用自理。
 
 #### 北京大学中关新园（1 号楼）
 
@@ -145,7 +152,9 @@ Wenjin Hotel Beijing(Beijing Wenjin Guoji Jiudian), located in Tsinghua Science 
 - 酒店咨询电话：010-62752288
 - 预订网站：http://hotels.ctrip.com/hotel/128336.html
 
-**我们还为您挑选了会场附近的一些酒店，可供您在会议期间预订入住。**
+<br>
+
+> 我们还为您挑选了会场附近的一些酒店，可供您在会议期间预订入住。
 
 #### 北大博雅国际酒店
 
