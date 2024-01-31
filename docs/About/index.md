@@ -51,12 +51,12 @@ Xin Tong, Peking University
 
 ## Organizing Committee
 
-| Name                  | Organization                                                                         | Country |
-| --------------------- | ------------------------------------------------------------------------------------ | ------- |
-| Feng Shi              | Shandong Academy of Sciences/Institute of ecological environment, Nanjing University | China   |
-| Ling Han              | Peking University                                                                    | China   |
-| Sai Liang             | Guangdong University of Technology                                                   | China   |
-| Weiqiang Chen         | Institute of Urban Environment, CAS                                                  | China   |
-| Wu Chen               | University of Southern Denmark                                                       | Denmark |
-| Yi Dou                | The University of Tokyo                                                              | Japan   |
-| （...to be extended） |                                                                                      |         |
+| Name                  | Organization                        | Country |
+| --------------------- | ----------------------------------- | ------- |
+| Feng Shi              | Shandong Academy of Sciences        | China   |
+| Ling Han              | Peking University                   | China   |
+| Sai Liang             | Guangdong University of Technology  | China   |
+| Weiqiang Chen         | Institute of Urban Environment, CAS | China   |
+| Wu Chen               | University of Southern Denmark      | Denmark |
+| Yi Dou                | The University of Tokyo             | Japan   |
+| （...to be extended） |                                     |         |

@@ -33,6 +33,7 @@ theme:
   # fastloading
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
 
