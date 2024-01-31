@@ -55,13 +55,13 @@ extra:
 # customizing navbar and sequence of documents
 nav:
   - Home: index.md
-  - About:
-    - About: About/index.md
   - Program:
     - Program/index.md
-    - Program/Abstract.md
+  - Abstract Submission: Program/Abstract.md
   - Venue and Travel: 
     - Venue and Travel/index.md
+  - Committees:
+    - Committees: Committees/index.md
   - Contact:
     - Contact/index.md
   - FAQs:
