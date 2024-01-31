@@ -7,6 +7,8 @@ Thanks for your interest in giving a presentation at this conference. Please sub
 
 [![1706708875202](image/Abstract/1706708875202.png)](https://docs.google.com/forms/d/e/1FAIpQLSd5nAciRy12rPfh12s2ek-hBBonUn5aYwAnRXRyARXKDzhkpw/viewform?usp=sf_link)
 
+> If your region cannot access Google services, please use [this form](https://docs.qq.com/form/page/DSUl2amRkTkF3bFpP).
+
 Abstracts will be peer-reviewed. Acceptance will be based on scientific merit, content, available space, and overall program balance.
 
 If you encounter any problems when submitting the abstract, please [contact us](../Contact/index.md).
