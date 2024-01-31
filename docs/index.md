@@ -7,6 +7,10 @@ hide:
 
 ## Welcome
 
+<video controls>
+<source src="image/index/1706717580636.mp4" type="video/mp4">
+</video>
+
 The **Joint Socio-Economic Metabolism (SEM) Section Conference and the Asia-Pacific (AP) Conference of the International Society for Industrial Ecology (ISIE)** will focus on topics related to **both methodological development and sustainability implications of industrial ecology and socio-economic metabolism research**, including but not limited to resource efficiency, circular economy, resource security, food systems, built environment, urban metabolism, waste management, climate change mitigation, global value chains, embodied environmental impacts, stock-flow-service nexus, and renewable energy and low-carbon transition.
 
 We look forward to welcoming as many of you as possible from the ISIE, ISIE-SEM, and ISIE-AP families. We also aim to bring together researchers from related fields such as geography, urban planning, climate change, and environmental system engineering and practitioners from industry and policy arena.
@@ -19,7 +23,6 @@ This integrated event of the ISIE-SEM and ISIE-AP will be a unique combination a
 <!-- 这一部分在 /Program/index.md 中有超链接，注意标题的修改 -->
 
 Current website [isiesem2024.net](index.md) contains all information related to the conference, so please check back regularly for updates.
-
 
 ## Announcements
 
