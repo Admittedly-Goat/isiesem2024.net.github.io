@@ -3,13 +3,10 @@ hide:
   - navigation
 ---
 
-# ![1706702643827](image/index/1706702643827.png)
-
 ## Conference chairs
 
-Gang Liu, Peking University
-
-Xin Tong, Peking University
+- Gang Liu, Peking University
+- Xin Tong, Peking University
 
 ## Advisory Board
 

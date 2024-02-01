@@ -22,7 +22,7 @@ This integrated event of the ISIE-SEM and ISIE-AP will be a unique combination a
 <!-- This section title has hyperlink in /Program/index.md -->
 <!-- 这一部分在 /Program/index.md 中有超链接，注意标题的修改 -->
 
-Current website [isiesem2024.net](index.md) contains all information related to the conference, so please check back regularly for updates.
+This website [isiesem2024.net](index.md) contains all information related to the conference, so please check back regularly for updates.
 
 ## Announcements
 

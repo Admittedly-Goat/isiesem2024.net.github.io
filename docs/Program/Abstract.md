@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Abstract Submission
 
 <!-- This page has hyperlink in /program/index.md -->
