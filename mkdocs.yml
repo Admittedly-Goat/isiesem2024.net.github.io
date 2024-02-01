@@ -5,6 +5,7 @@ theme:
     logo: material/earth
   favicon: image/favicon.png
   custom_dir: overrides
+  font: false
 
   # coloring
   palette:
@@ -26,11 +27,6 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-  # typefacing
-  font:
-    text: Noto Sans Simplified Chinese
-    code: Noto Sans Mono
-
   # fastloading
   features:
     - navigation.tabs
@@ -42,8 +38,6 @@ theme:
 copyright: "&copy; 2024 Joint ISIE Socio-Economic Metabolism and Asia-Pacific Conference Committee"
 
 plugins:
-  # proxying google fonts, which are unavailable in Mainland China
-  - privacy
   # for customizing navbar
   - awesome-pages
   # for adding search
