@@ -47,7 +47,7 @@ hide:
 | Ichiro Daigo         | The University of Tokyo                                          | Japan          |
 | Jiashuo Li           | Shandong University                                              | China          |
 | Jingru Liu           | Chinese Academy of Sciences                                      | China          |
-| Jon Cullen           | Cambridge University                                             | United Kingdom |
+| Rupert Myers         | Imperial College London                                          | United Kingdom |
 | Jooyoung Park        | Seoul National University                                        | Korea          |
 | Junming Zhu          | Tsinghua University                                              | China          |
 | Kazuyo Matsubae      | Tohoku University                                                | Japan          |
