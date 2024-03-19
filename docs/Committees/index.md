@@ -10,22 +10,23 @@ hide:
 
 ## Advisory Board
 
-| Name              | Organisation                                   | Country     |
-| ----------------- | ---------------------------------------------- | ----------- |
-| Anthony Chiu      | De La Salle University                         | Philippines |
-| Arnold Tukker     | Leiden University                              | Netherlands |
-| Canfei He         | Peking University                              | China       |
-| Daniel Müller     | Norwegian University of Science and Technology | Norway      |
-| Harn Wei Kua      | National University of Singapore               | Singapore   |
-| Helmut Rechberger | Vienna University of Technology                | Austria     |
-| Hiroki Tanikawa   | Nagoya University                              | Japan       |
-| Hung-Suck Park    | University of Ulsan                            | Korea       |
-| Lei Shi           | Nanchang University                            | China       |
-| Liselotte Schebek | TU Darmstadt                                   | Germany     |
-| Ming Xu           | Tsinghua University                            | China       |
-| Shengkui Cheng    | Chinese Academy of Sciences                    | China       |
-| Stefan Bringezu   | University of Kassel                           | Germany     |
-| Yong Geng         | Shanghai Jiao Tong University                  | China       |
+| Name              | Organisation                                                 | Country     |
+| ----------------- | ------------------------------------------------------------ | ----------- |
+| Anthony Chiu      | De La Salle University                                       | Philippines |
+| Arnold Tukker     | Leiden University                                            | Netherlands |
+| Canfei He         | Peking University                                            | China       |
+| Daniel Müller     | Norwegian University of Science and Technology               | Norway      |
+| Harn Wei Kua      | National University of Singapore                             | Singapore   |
+| Helmut Rechberger | Vienna University of Technology                              | Austria     |
+| Hiroki Tanikawa   | Nagoya University                                            | Japan       |
+| Hung-Suck Park    | University of Ulsan                                          | Korea       |
+| Lei Shi           | Nanchang University                                          | China       |
+| Liselotte Schebek | TU Darmstadt                                                 | Germany     |
+| Ming Xu           | Tsinghua University                                          | China       |
+| Shengkui Cheng    | Chinese Academy of Sciences                                  | China       |
+| Stefan Bringezu   | University of Kassel                                         | Germany     |
+| Yong Geng         | Shanghai Jiao Tong University                                | China       |
+| Heinz Schandl     | Commonwealth Scientific and Industrial Research Organisation | Australia   |
 
 ## Scientific Committee
 
