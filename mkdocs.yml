@@ -54,6 +54,7 @@ extra:
 nav:
   - Home: index.md
   - Program: Program/index.md
+  - Registration: Registration/index.md
   - Abstract Submission: Program/Abstract.md
   - Venue and Travel: Venue and Travel/index.md
   - Committees: Committees/index.md
