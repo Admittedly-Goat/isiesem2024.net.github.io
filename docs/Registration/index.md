@@ -9,7 +9,7 @@ Registration for the conference is now open. We kindly request that you review t
 
 ## Fees
 
-Registration fees vary based on your ISIE membership status, the timing of your registration, and the category of participant. Please note that our early bird registration concludes on May 31, 2024 (inclusive, UTC+8). The fee structure is as follows:
+Registration fees vary based on your ISIE membership status, the timing of your registration, and the category of participant. Please note that our early bird registration concludes on June 25, 2024 (inclusive, UTC+8). The fee structure is as follows:
 
 For non-ISIE members:
 
