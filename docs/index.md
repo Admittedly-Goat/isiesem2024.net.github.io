@@ -17,6 +17,14 @@ We look forward to welcoming as many of you as possible from the ISIE, ISIE-SEM,
 
 This integrated event of the ISIE-SEM and ISIE-AP will be a unique combination and opportunity to discuss industrial ecology and socio-economic metabolism issues facing the Asia-Pacific region and the world surrounding it. It will also be a platform for collaboration among scholars, practitioners, and policy-makers across the world to make a lasting contribution to this field.
 
+## Organizers
+
+- International Society for Industrial Ecology (Socio-Economic Metabolism Section)
+- Peking University (College of Urban and Environmental Sciences)
+- China Society of Natural Resources (Material Flows and Resource Management Section)
+- Japan Society of Civil Engineers (Environmental System Research Committee)
+- Chinese Society for Industrial Ecology
+
 ## Stay Updated
 
 <!-- This section title has hyperlink in /Program/index.md -->
