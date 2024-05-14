@@ -48,4 +48,4 @@ This website [isiesem2024.net](index.md) contains all information related to the
 - June 30, 2024 **(postponed)**: Preliminary programme announced
 - July 20, 2024 **(postponed)**: Registration closes
 - July 25, 2024 **(postponed)**: Programme announced
-- August 23-27, 2024: Conference
+- August 24-27, 2024: Conference
