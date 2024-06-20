@@ -11,6 +11,6 @@ The initial schedule during the conference is provided as follows:
 
 ![1706704260146](image/index/1706704260146.png)
 
-# Submit your Abstract
+# <del>Submit your Abstract</del>
 
-Please [submit your abstract](Abstract.md) if you are interested in giving a presentation.
+<del>Please [submit your abstract](Abstract.md) if you are interested in giving a presentation.</del>
