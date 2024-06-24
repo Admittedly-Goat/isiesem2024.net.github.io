@@ -46,7 +46,7 @@ hide:
 
 ### 三、摘要投递与注册
 
-参会者及有意向组织分会的召集人请于 2024 年 6 月 30 日前填写 [腾讯问卷](https://docs.qq.com/form/page/DSXZSRW9sUUpJekhW) 提交摘要、注册参会。
+参会者及有意向组织分会的召集人请于 2024 年 7 月 10 日前填写 [腾讯问卷](https://docs.qq.com/form/page/DSXZSRW9sUUpJekhW) 提交摘要、注册参会。
 
 ### 四、会议安排
 
