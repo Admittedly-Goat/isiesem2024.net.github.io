@@ -71,11 +71,15 @@ Price per night, per person/room from 558 RMB --, including breakfast
 
 ### How to Book
 
-You can contact the hotel directly via the website link or phone number provided above to book your room. Alternatively, you can book through us to receive a discount (limited quantity) by filling out this form (if you cannot access Google services, please use [this link](https://docs.qq.com/form/page/DSWZCaGVkdk14dVNY)):
+You can contact the hotel directly via the website link or phone number provided above to book your room. We have concluded hotel booking through the conference committee's channel; Please make your own reservation.
+
+We still provide the previous information for reference purposes only:
+
+<del>Alternatively, you can book through us to receive a discount (limited quantity) by filling out this form (if you cannot access Google services, please use [this link](https://docs.qq.com/form/page/DSWZCaGVkdk14dVNY)):</del>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdS__Q7o3mlPvLMQKReyJUnL7R8mqJYbiyoAnWTD5ltFexSOQ/viewform?embedded=true" width="640" height="480" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-If the quantity limit is reached, we will promptly notify you and assist with rearranging your accommodation.
+<del>If the quantity limit is reached, we will promptly notify you and assist with rearranging your accommodation.</del>
 
 <br>
 
