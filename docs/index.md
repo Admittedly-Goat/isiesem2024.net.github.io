@@ -47,6 +47,6 @@ This website [isiesem2024.net](index.md) contains all information related to the
 - <del>June 20, 2024 **(extended)**: Abstract submission closes</del>
 - <del>June 25, 2024 **(extended)**: Early bird registration closes</del>
 - <del>June 30, 2024 **(postponed)**: Preliminary programme announced</del>
-- July 25, 2024 **(postponed)**: Programme announced
-- July 30, 2024 **(postponed)**: Registration closes
+- July 31, 2024 **(postponed)**: Programme announced
+- July 31, 2024 **(postponed)**: Registration closes
 - August 24-27, 2024: Conference
