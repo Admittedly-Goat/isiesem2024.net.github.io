@@ -5,7 +5,9 @@ hide:
 
 # Conference Registration
 
-Registration for the conference is now open. We kindly request that you review the information below attentively.
+## **Registration for the conference was closed at July 31 2024**.
+
+You can still access this registration page, but we may not be able to process your request. If you have special circumstances, please [contact us](../Contact/index.md).
 
 ## Fees
 
