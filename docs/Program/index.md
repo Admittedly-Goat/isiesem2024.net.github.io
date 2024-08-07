@@ -30,3 +30,7 @@ The conference program is out now! The schedule during the conference is provide
 ### Prof. Arnold Tukker
 
 ![1721203673343](image/index/1721203673343.png)
+
+## Dr. Yang Xia
+
+![1723030651775](image/index/1723030651775.png)
