@@ -15,6 +15,10 @@ The conference program is out now! The schedule during the conference is provide
 
 ![1721139866488](image/index/1721139866488.png)
 
+### Dr. Nanqing Jiang
+
+![1723289677976](image/index/1723289677976.png)
+
 ### Prof. Hung-Suck Park
 
 ![1721140215641](image/index/1721140215641.png)
@@ -33,4 +37,4 @@ The conference program is out now! The schedule during the conference is provide
 
 ### Dr. Yang Xia
 
-![1723030651775](image/index/1723030651775.png)
+![1723288899985](image/index/1723288899985.png)
