@@ -19,6 +19,10 @@ The conference program is out now! The schedule during the conference is provide
 
 ![1723289677976](image/index/1723289677976.png)
 
+### Prof. Yonglong Lu
+
+![1723384912871](image/index/1723384912871.png)
+
 ### Prof. Hung-Suck Park
 
 ![1721140215641](image/index/1721140215641.png)
