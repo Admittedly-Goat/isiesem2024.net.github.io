@@ -5,40 +5,50 @@ hide:
 
 # Conference Program
 
-The conference program is out now! The schedule during the conference is provided as follows (please note that minor changes may still occur):
+The final conference program schedule is provided as below; you can also download the pdf version of the schedule [here](image/index/1724074529603.pdf).
 
-![1721121076089](image/index/1721121076089.png)
+![1724074791377](image/index/1724074791377.png)
+
+![1724074826349](image/index/1724074826349.png)![1724074851913](image/index/1724074851913.png)
+
+![1724074878159](image/index/1724074878159.png)
+
+## Poster Presentation Arrangement
+
+We have arranged the poster presentations into 3 days. Please check the detailed arrangement below or download the pdf version of the schedule [here](image/index/1724074529603.pdf).
+
+![1724074928080](image/index/1724074928080.png)
 
 ## Keynote Speakers
 
 ### Dr. Li Fang
 
-![1721139866488](image/index/1721139866488.png)
+![1724075038745](image/index/1724075038745.png)
 
 ### Dr. Nanqing Jiang
 
-![1723289677976](image/index/1723289677976.png)
+![1724075052450](image/index/1724075052450.png)
 
 ### Prof. Yonglong Lu
 
-![1723384912871](image/index/1723384912871.png)
+![1724075063606](image/index/1724075063606.png)
 
 ### Prof. Hung-Suck Park
 
-![1723619607470](image/index/1723619607470.png)
+![1724075071501](image/index/1724075071501.png)
 
 ### Dr. Heinz Schandl
 
-![1721139873741](image/index/1721139873741.png)
+![1724075076330](image/index/1724075076330.png)
 
 ### Prof. Hiroki Tanikawa
 
-![1721139857892](image/index/1721139857892.png)
+![1724075082481](image/index/1724075082481.png)
 
 ### Prof. Arnold Tukker
 
-![1721203673343](image/index/1721203673343.png)
+![1724075089454](image/index/1724075089454.png)
 
 ### Dr. Yang Xia
 
-![1723288899985](image/index/1723288899985.png)
+![1724075093928](image/index/1724075093928.png)
