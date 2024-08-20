@@ -34,6 +34,7 @@ This website [isiesem2024.net](index.md) contains all information related to the
 
 ## Announcements
 
+- Final program is out now! Please check the [Program](Program/index.md) page for more details.
 - Preliminary program is out now! Additionally, we are gradually announcing the keynote speakers. Please check the [Program](Program/index.md) page for more details.
 - The abstract submission is open now! Anyone who is interested in giving a presentation at the conference can submit an abstract. Please check the [Abstract Submission](Program/Abstract.md) page for more details.
 - Conference registration is open now! Please check the [Registration](Registration/index.md) page for more details.
@@ -48,5 +49,5 @@ This website [isiesem2024.net](index.md) contains all information related to the
 - <del>June 25, 2024 **(extended)**: Early bird registration closes</del>
 - <del>June 30, 2024 **(postponed)**: Preliminary programme announced</del>
 - <del>July 31, 2024 **(postponed)**: Registration closes</del>
-- July 31, 2024 **(postponed)**: Programme announced
+- <del>July 31, 2024 **(postponed)**: Programme announced</del>
 - August 24-27, 2024: Conference
