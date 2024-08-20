@@ -11,11 +11,9 @@ The final conference program schedule is provided as below; you can also downloa
 
 ![1724119587461](image/index/1724119587461.png)![1724119603036](image/index/1724119603036.png)
 
-![1724119618645](image/index/1724119618645.png)
+![1724121186702](image/index/1724121186702.png)
 
-## Poster Presentation Arrangement
-
-We have arranged the poster presentations into 3 days. Please check the detailed arrangement below or download the pdf version of the schedule [here](image/index/1724074529603.pdf).
+Detailed schedule of poster presentation:
 
 ![1724074928080](image/index/1724074928080.png)
 
@@ -23,32 +21,32 @@ We have arranged the poster presentations into 3 days. Please check the detailed
 
 ### Dr. Heinz Schandl
 
-![1724075076330](image/index/1724075076330.png)
+![1724121159353](image/index/1724121159353.png)
 
 ### Prof. Hiroki Tanikawa
 
-![1724075082481](image/index/1724075082481.png)
+![1724121147103](image/index/1724121147103.png)
 
 ### Dr. Li Fang
 
-![1724075038745](image/index/1724075038745.png)
+![1724121133291](image/index/1724121133291.png)
 
 ### Prof. Arnold Tukker
 
-![1724075089454](image/index/1724075089454.png)
+![1724121120565](image/index/1724121120565.png)
 
 ### Prof. Hung-Suck Park
 
-![1724075071501](image/index/1724075071501.png)
+![1724121105419](image/index/1724121105419.png)
 
 ### Dr. Nanqing Jiang
 
-![1724075052450](image/index/1724075052450.png)
+![1724121089913](image/index/1724121089913.png)
 
 ### Prof. Yonglong Lu
 
-![1724075063606](image/index/1724075063606.png)
+![1724121077547](image/index/1724121077547.png)
 
-### Dr. Yang Xia
+### Dr. Ruby Xia
 
-![1724075093928](image/index/1724075093928.png)
+![1724121051764](image/index/1724121051764.png)
