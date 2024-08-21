@@ -7,21 +7,21 @@ hide:
 
 The final conference program schedule is provided as below; you can also download the pdf version of the schedule [here](image/index/1724074529603.pdf).
 
-![1724119570424](image/index/1724119570424.png)
+![1724230066392](image/index/1724230066392.png)
 
-![1724119587461](image/index/1724119587461.png)![1724119603036](image/index/1724119603036.png)
+![1724230072327](image/index/1724230072327.png)![1724230077148](image/index/1724230077148.png)
 
-![1724121186702](image/index/1724121186702.png)
+![1724230082291](image/index/1724230082291.png)
 
 Detailed schedule of poster presentation:
 
-![1724074928080](image/index/1724074928080.png)
+![1724230087497](image/index/1724230087497.png)
 
 ## Keynote Speakers
 
-### Dr. Heinz Schandl
+### Prof. Arnold Tukker
 
-![1724121159353](image/index/1724121159353.png)
+![1724121120565](image/index/1724121120565.png)
 
 ### Prof. Hiroki Tanikawa
 
@@ -31,13 +31,13 @@ Detailed schedule of poster presentation:
 
 ![1724121133291](image/index/1724121133291.png)
 
-### Prof. Arnold Tukker
-
-![1724121120565](image/index/1724121120565.png)
-
 ### Prof. Hung-Suck Park
 
 ![1724121105419](image/index/1724121105419.png)
+
+### Prof. Jon McKechnie
+
+![1724229855325](image/index/1724229855325.png)
 
 ### Dr. Nanqing Jiang
 
